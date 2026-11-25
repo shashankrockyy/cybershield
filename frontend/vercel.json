@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://cybersheild-backend-xiol.onrender.com/api/:path*"
+      "destination": "https://cybershield-uyzu.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
